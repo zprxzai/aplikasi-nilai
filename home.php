@@ -1,10 +1,14 @@
-<div class="card">
+<style>
+       .kartu{
+        background-color: gainsboro;
+    }
+</style>
+<div class="card kartu">
+    <div class="card-header"><h1>SMA PLUS pgri cibinong</h1></div>
     <div class="card-body">
-        <p><img src="gambar/gambar webpro.webp" class="rounded float-end" height="200px" alt="WebDev">
-            <b><i>Pemrograman web</i></b> atau <b><i>web programming</i></b> adalah proses mengkomunikasikan perintah pada komputer untuk membangun suatu program berbasis website agar dapat diakses menggunakan internet.
+        <p><img src="gambar/th (6).jpeg" class="rounded float-end" height="200px" alt="WebDev">
+        <B><i>SMA Pgri Cibinong</i></B> adalah sebuah lembaga sekolah SMA swasta yang beralamat di Jl. Golf Ciriung Cibinong, Kab. Bogor. SMA swasta ini memulai kegiatan pendidikan belajar mengajarnya pada tahun 1980. Sekarang SMA Pgri Cibinong mengimplementasikan panduan kurikulum belajar SMA 2013 IPS.
         </p>
-        <p>Jika diumpamakan, web programming itu seperti arsitek yang merancang sebuah rumah. Tukang bangunan dengan segala alat dan bahannya adalah komputer. Lalu rumah adalah program atau website yang berhasil dibangun. </p>
-        <p>Sama seperti arsitek, seorang yang melakukan web programming perlu merancang website, membangunnya, dan memastikan agar website dapat dihuni atau dikunjungi oleh siapa saja. </p>
-        <p>Nah, web programming merupakan salah satu bidang yang kini banyak diminati dan dibutuhkan. Bahkan profesi ini diperkirakan akan bertumbuh 23 persen mulai dari tahun 2021 hingga 2031.</p>
+        
     </div>
 </div>
